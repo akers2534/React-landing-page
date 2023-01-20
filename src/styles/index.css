@@ -1,4 +1,18 @@
 .dogcards{
-    display: flex;
+    display: flex; 
+    gap: 50px;
+    justify-content: center;
+    padding: 5%;
+    
+} 
+.jumbo{
+    color: rgb(155, 244, 244);
+    background-color: rgb(52, 125, 128);
+} 
+.bottom{
+    color: rgb(16, 13, 13);
+}
+.text-center{
+    color: antiquewhite !important;
     
 }
